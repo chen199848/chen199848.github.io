@@ -78,5 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/sober1010/sober1010.github.io.git
+  repository: https://github.com/chen199848/chen199848.github.io.git
   branch: master
